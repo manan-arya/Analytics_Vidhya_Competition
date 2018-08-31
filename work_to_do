@@ -1,0 +1,6 @@
+Manan I re_write the code in jupyter notebook.
+beside the work done by sir , I tried 3 concepts to reduce the RMSE.
+now you just go through the note book and just try some hyper parameter tuning, rest i have left comments in notebook.
+NOW , after all this I want you to apply Decision tree and random forest etc.and try to reduce RMSE.
+don't waste much time in xg boost , that we can see later first try all algorithm possible. 
+after that , the best will be selected.
